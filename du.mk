@@ -23,7 +23,7 @@ $(call inherit-product, device/lge/bullhead/aosp_bullhead.mk)
 # Inherit from our custom product configuration
 $(call inherit-product, vendor/dARCrom/config/common_full_phone.mk)
 
-PRODUCT_NAME := dARCrom_bullhead
+PRODUCT_NAME := du_bullhead
 PRODUCT_DEVICE := bullhead
 PRODUCT_BRAND := google
 PRODUCT_MODEL := Nexus 5X
